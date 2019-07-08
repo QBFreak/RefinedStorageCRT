@@ -1,5 +1,5 @@
 # Refined Storage CRT
-A green CRT themed resource pack for Refined Storage
+A green CRT themed resource pack for Refined Storage 1.6.x
 
 The layout of the various screens (grids, monitors etc) are inspired by the original Refined Storage textures by CyanideX.
 The textures for the screens were created from scratch.
@@ -15,6 +15,6 @@ Because this resourcepack relies on the default Refined Storage textures, it's p
   
 ## License and Permission
 
-This Resource Pack is licensced MIT, same as Refined Storage Recolor, and Refined Storage.
+This Resource Pack is licensed MIT, same as Refined Storage Recolor, and Refined Storage.
 
 In keeping with the license, you have permission to use this Resource Pack in any modpack.
