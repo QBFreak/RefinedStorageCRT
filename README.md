@@ -18,3 +18,13 @@ Because this resourcepack relies on the default Refined Storage textures, it's p
 This Resource Pack is licensed MIT, same as Refined Storage Recolor, and Refined Storage.
 
 In keeping with the license, you have permission to use this Resource Pack in any modpack.
+
+## Changelog
+
+### v1.1
+
+Fixed issue with texture for Immersive Cables `Refined Transformer` when active (connected)
+
+### v1.0
+
+Initial version
